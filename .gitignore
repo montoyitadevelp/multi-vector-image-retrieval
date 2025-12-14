@@ -1,0 +1,14 @@
+# Entornos virtuales (ELIMINA EL RUIDO)
+venv/
+.venv/
+env/
+
+# Archivos compilados de Python (BASURA)
+__pycache__/
+*.py[cod]
+
+# Variables de entorno (SEGURIDAD)
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
