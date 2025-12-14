@@ -1,5 +1,7 @@
 # 🚀 Multi-Vector Image Retrieval with ColBERT, ColPali & Qdrant
 
+![1728572524156](https://github.com/user-attachments/assets/013541f2-b714-449b-8d37-90ff2ab04afa)
+
 ## 📋 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
